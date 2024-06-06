@@ -1,3 +1,4 @@
 # Grodo.css
 A open source css library
-![grodo-icon](https://github.com/DaanBouma/Grodo.css/assets/130249739/ece73c1f-f65d-460c-a8e8-ffa461f875c3)
+
+![grodo](https://github.com/DaanBouma/Grodo.css/assets/130249739/b334024b-83fe-4e1c-b218-c4fca10eefc8)
