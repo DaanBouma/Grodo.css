@@ -12,4 +12,4 @@ This creates cards that gets it from your github or database.
 
 You can use a NPM install if you want more customization.
 Type in your terminal
-** npm install grodo
+#npm install grodo
