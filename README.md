@@ -1,3 +1,3 @@
 
-![grodo](https://github.com/DaanBouma/Grodo.css/assets/130249739/bee3d124-aa7b-4c59-86a2-caac5c600585)
 
+![banner](https://github.com/user-attachments/assets/0180548f-b4c8-4e6e-b583-cac034567e8e)
