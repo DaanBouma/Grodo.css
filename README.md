@@ -8,3 +8,4 @@ There are also some usefull tools like the dync (dynamic containers)
 This creates cards that gets it from your github or database.
 
 
+![install](https://github.com/user-attachments/assets/abd07365-774c-4231-876b-d4662113b129)
